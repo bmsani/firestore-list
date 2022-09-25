@@ -77,7 +77,7 @@ const ListCard = () => {
 
     return (
             <div>
-                <div className='flex flex-col items-center gap-3 mt-12'>
+                <div className='flex flex-col items-center gap-3 pt-12'>
                     <h1 className='font-bold text-2xl bg-blue-500 w-[500px] py-2 text-white rounded-tl rounded-tr'>List card</h1>
                     <div className='flex flex-col'>
                         {
