@@ -25,7 +25,7 @@
 
 .text-section {}
 
-.butto-section {
+.button-section {
     display: flex;
     gap: 9px;
     align-items: center;
