@@ -7,7 +7,7 @@ function App() {
   const queryClient = new QueryClient()
   return (
     <QueryClientProvider client={queryClient}>
-      <div className="App" data-theme="light">
+      <div className="App h-screen" data-theme="light" >
       <ListCard></ListCard>
       <ToastContainer />
     </div>
